@@ -65,9 +65,9 @@ public class Quiz {
                                         }
                                         i++;
                                 }
-
+                        }
                         }
                         input.close();
                 }
         }
-}
+

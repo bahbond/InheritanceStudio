@@ -40,5 +40,6 @@ public class QuizRunner {
 
          String newline = System.lineSeparator();
          System.out.println(newline + "You answered " + quiz.getNumCorrect() + " of " + quiz.getQuestions().size() + "questions correctly. Thanks for playing!" + newline );
+
      }
 }
